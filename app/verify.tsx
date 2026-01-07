@@ -85,7 +85,7 @@ const Verify = () => {
                 <Text className='mt-16 font-semibold text-start w-full text-white text-xl px-5'>Enter 4 digit OTP sent to your phone number</Text>
                 <View className='mt-10 w-[75%] flex flex-col justify-start items-start'>
                     <OtpInput onFilled={(code) => { verifyOTP(code) }} onTextChange={(text) => setOtp(text)} autoFocus={true} focusColor='white' numberOfDigits={4} />
-                    <Text className={`w-full px-5 text-start text-red-500 ${visible ? "block" : "hidden"}`}>{error}</Text>
+                    <Text className={`w-full mt-5 text-start text-red-500 ${visible ? "block" : "hidden"}`}>{error}</Text>
                     {timer === 0 && <Text onPress={resendOTP} className={`w-full px-5 mt-5 text-start text-blue-500 font-semibold`}>Resend OTP</Text>}
                     {timer !== 0 && <Text className={`w-full px-5 mt-5 text-start text-white font-semibold`}> Resend OTP in {timer}s</Text>}
                 </View>
