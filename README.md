@@ -12,6 +12,20 @@
 
 ***
 
+<h2>Evaluation</h2>
+<ol>
+   <li>Screen 1 (send OTP) ✅</li>
+   <li>Working API integration (send) ✅</li>
+   <li>Screen 2 (login / verify OTP) ✅</li>
+   <li>Working API integration (verify) ✅</li>
+   <li>Auto-submit on OTP filled ✅</li>
+   <li>Highlight validation fail (OTP / mobile) ✅</li>
+   <li>Implement resend OTP ✅</li>
+   <li>Demo video ✅</li>
+   <li>Pixel perfect closeness to figma ✅</li>
+</ol>
+
+***
 <h2>Screenshots</h2>
 <p>Screen 1 - Number Entry</p>
 <div>
