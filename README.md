@@ -8,7 +8,7 @@
    <li>Cooldown timer of 60 seconds</li>
 </ul>
 
-<p>Click on this link to view demo video 👉🏻 <a href='https://drive.google.com/file/d/1vKnEF4YNew23fW4BQpZYH2C1BQeJvJtp/view?usp=drivesdk'>Link</a></p>
+<h4>Click on this link to view demo video 👉🏻 <a href='https://drive.google.com/file/d/1vKnEF4YNew23fW4BQpZYH2C1BQeJvJtp/view?usp=drivesdk'>Link</a></h4>
 
 ***
 
